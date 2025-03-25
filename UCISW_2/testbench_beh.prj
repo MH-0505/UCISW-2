@@ -1,0 +1,2 @@
+vhdl work "generator_dzialan.vhd"
+vhdl work "testbench.vhd"

@@ -1,0 +1,2 @@
+vhdl isim_temp "generator_dzialan.vhd"
+vhdl isim_temp "testbench.vhd"
