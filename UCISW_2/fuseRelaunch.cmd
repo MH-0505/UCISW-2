@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "C:/Users/micha/Pulpit/UCISW_2/testbench_isim_beh.exe" -prj "C:/Users/micha/Pulpit/UCISW_2/testbench_beh.prj" "work.testbench" 
+-intstyle "ise" -incremental -o "C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/testbench_isim_beh.exe" -prj "C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/testbench_beh.prj" "work.testbench" 

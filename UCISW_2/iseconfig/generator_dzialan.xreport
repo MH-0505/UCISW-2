@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2025-03-25T12:01:32</DateModified>
+  <DateModified>2025-03-25T13:19:58</DateModified>
   <ModuleName>generator_dzialan</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/micha/Pulpit/UCISW_2/iseconfig/generator_dzialan.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/micha/Pulpit/UCISW_2\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/iseconfig/generator_dzialan.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/lab/Downloads/UCISW-2-main/UCISW_2\</ImplementationReportsDirectory>
   <DateInitialized>2025-03-25T00:39:46</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

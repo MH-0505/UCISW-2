@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/micha/Pulpit/UCISW_2/testbench.vhd";
+static const char *ng0 = "C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/testbench.vhd";
 
 
 
@@ -124,9 +124,9 @@ LAB6:    *((char **)t1) = &&LAB7;
 
 LAB1:    return;
 LAB4:    xsi_set_current_line(82, ng0);
-    t2 = (t0 + 5888);
+    t2 = (t0 + 6056);
     *((int *)t2) = 1;
-    t4 = (t0 + 5892);
+    t4 = (t0 + 6060);
     *((int *)t4) = 10;
     t5 = 1;
     t6 = 10;
@@ -161,16 +161,16 @@ LAB9:    xsi_set_current_line(83, ng0);
 LAB14:    *((char **)t1) = &&LAB15;
     goto LAB1;
 
-LAB10:    t2 = (t0 + 5888);
+LAB10:    t2 = (t0 + 6056);
     t5 = *((int *)t2);
-    t4 = (t0 + 5892);
+    t4 = (t0 + 6060);
     t6 = *((int *)t4);
     if (t5 == t6)
         goto LAB11;
 
 LAB20:    t12 = (t5 + 1);
     t5 = t12;
-    t7 = (t0 + 5888);
+    t7 = (t0 + 6056);
     *((int *)t7) = t5;
     goto LAB8;
 

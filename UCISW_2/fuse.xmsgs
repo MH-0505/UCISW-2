@@ -5,7 +5,13 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="Simulator" num="0" delta="unknown" >Unable to copy libPortabilityNOSH.dll to the simulation executable directory: <arg fmt="%s" index="1">boost::filesystem::copy_file: System nie mo﾿e odnaleﾟ￦ okreﾜlonej ﾜcie﾿ki, &quot;isim\testbench_isim_beh.exe.sim\libPortability.dll&quot;</arg>.
+<msg type="error" file="HDLCompiler" num="539" delta="unknown" >"C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/ascii_decoder.vhd" Line 40: Indexed name is not a <arg fmt="%s" index="1">unsigned</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/ascii_decoder.vhd" Line 49: Syntax error near &quot;<arg fmt="%s" index="1">begin</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="841" delta="unknown" >"C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/ascii_decoder.vhd" Line 52: Expecting type <arg fmt="%s" index="2"> void</arg> for &lt;<arg fmt="%s" index="1">behavioral</arg>&gt;.
 </msg>
 
 </messages>

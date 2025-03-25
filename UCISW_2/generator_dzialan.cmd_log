@@ -1,0 +1,2 @@
+vhdtdtfi -lib work generator_dzialan.vhd -prj UCISW_2 -o generator_dzialan.spl -module generator_dzialan -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e generator_dzialan.spl C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/generator_dzialan.sym 

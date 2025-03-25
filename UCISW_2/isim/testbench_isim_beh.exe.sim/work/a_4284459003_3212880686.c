@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/micha/Pulpit/UCISW_2/generator_dzialan.vhd";
+static const char *ng0 = "C:/Users/lab/Downloads/UCISW-2-main/UCISW_2/generator_dzialan.vhd";
 extern char *IEEE_P_2592010699;
 extern char *IEEE_P_1242562249;
 
@@ -241,10 +241,10 @@ LAB22:    t24 = (t0 + 5176);
 LAB6:    xsi_set_current_line(80, ng0);
     t1 = (t0 + 1992U);
     t3 = *((char **)t1);
-    t1 = (t0 + 7816U);
+    t1 = (t0 + 8052U);
     t4 = (t0 + 2152U);
     t7 = *((char **)t4);
-    t4 = (t0 + 7816U);
+    t4 = (t0 + 8052U);
     t8 = ieee_p_1242562249_sub_1547198987_1035706684(IEEE_P_1242562249, t43, t3, t1, t7, t4);
     t9 = (t43 + 12U);
     t19 = *((unsigned int *)t9);
@@ -263,7 +263,7 @@ LAB24:    t10 = (t0 + 5240);
     goto LAB3;
 
 LAB5:    xsi_set_current_line(54, ng0);
-    t3 = (t0 + 7916);
+    t3 = (t0 + 8152);
     t8 = (t0 + 4984);
     t9 = (t8 + 56U);
     t10 = *((char **)t9);
@@ -272,7 +272,7 @@ LAB5:    xsi_set_current_line(54, ng0);
     memcpy(t12, t3, 8U);
     xsi_driver_first_trans_fast(t8);
     xsi_set_current_line(55, ng0);
-    t1 = (t0 + 7924);
+    t1 = (t0 + 8160);
     t4 = (t0 + 5048);
     t7 = (t4 + 56U);
     t8 = *((char **)t7);
@@ -283,22 +283,22 @@ LAB5:    xsi_set_current_line(54, ng0);
     xsi_set_current_line(57, ng0);
     t1 = (t0 + 1352U);
     t3 = *((char **)t1);
-    t1 = (t0 + 7932);
+    t1 = (t0 + 8168);
     t13 = xsi_mem_cmp(t1, t3, 2U);
     if (t13 == 1)
         goto LAB9;
 
-LAB14:    t7 = (t0 + 7934);
+LAB14:    t7 = (t0 + 8170);
     t14 = xsi_mem_cmp(t7, t3, 2U);
     if (t14 == 1)
         goto LAB10;
 
-LAB15:    t9 = (t0 + 7936);
+LAB15:    t9 = (t0 + 8172);
     t15 = xsi_mem_cmp(t9, t3, 2U);
     if (t15 == 1)
         goto LAB11;
 
-LAB16:    t11 = (t0 + 7938);
+LAB16:    t11 = (t0 + 8174);
     t16 = xsi_mem_cmp(t11, t3, 2U);
     if (t16 == 1)
         goto LAB12;

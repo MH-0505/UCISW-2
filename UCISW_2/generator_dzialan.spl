@@ -1,0 +1,9 @@
+[Inputs]
+clk
+start
+=poz[1:0]=
+[Outputs]
+=A[7:0]=
+=B[7:0]=
+=Wynik[7:0]=
+[BiDir]

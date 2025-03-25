@@ -33,7 +33,7 @@ entity generator_dzialan is
     Port (
         clk   : in  STD_LOGIC;
         start : in  STD_LOGIC;
-		poz	  : in  STD_LOGIC_VECTOR (1 downto 0);
+		  poz	  : in  STD_LOGIC_VECTOR (1 downto 0);
         A     : out STD_LOGIC_VECTOR (7 downto 0);
         B     : out STD_LOGIC_VECTOR (7 downto 0);
         Wynik : out STD_LOGIC_VECTOR (7 downto 0)
